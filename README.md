@@ -102,8 +102,13 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
+- **[Create database]**
+- **[Create table]**
 - **[Insert into database]**
 - **[Query database]**
+- **[Update and delete from database]**
+- **[SQl transactions]**
+- **[SQl Aggregates]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,6 +134,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- To install Postgresql
+
+
 <!--
 Example command:
 
@@ -144,9 +152,9 @@ Clone this repository to your desired folder:
 
 Example commands:
 
-
-  cd vet-clinic-database
+  
   git clone https://github.com/FrankMugagga/vet-clinic-database.git
+  cd vet-clinic-database
 
 
 ### Install
@@ -164,6 +172,10 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
+From the command line run;
+- sudo -i -u postgres
+- psql
+- \c database name
 
 <!--
 Example command:
