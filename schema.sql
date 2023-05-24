@@ -5,3 +5,10 @@ CREATE TABLE animals (
     escape_attempts INT, neutered boolean,
     weight_kg decimal
 );
+
+ALTER TABLE animals add species varchar(50);
+UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg = -5.7;
+UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg = -45;
+UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg = -12.13;
+UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg = -11;
+COMMIT;
