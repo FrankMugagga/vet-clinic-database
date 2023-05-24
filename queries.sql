@@ -9,6 +9,8 @@ SELECT * FROM animals WHERE neutered IN (true);
 SELECT * FROM animals WHERE name not IN ('Gabumon');
 SELECT * FROM animals WHERE weight_kg IN (10.4, 17.3) OR (weight_kg > 10.4 AND weight_kg < 17.3);
 
+
+/*  Vet clinic database: query and update animals table */
 BEGIN;
 SAVEPOINT SP1;
 ALTER TABLE animals RENAME COLUMN species TO unspecified;
@@ -22,6 +24,11 @@ SAVEPOINT SP2;
 DELETE FROM animals;
 ROLLBACK TO SP2;
 DELETE FROM animals WHERE date_of_birth > '2022-01-01';
+UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg = -5.7;
+UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg = -45;
+UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg = -12.13;
+UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg = -11;
+COMMIT;
 
 SAVEPOINT SP3;
 UPDATE animals SET weight_kg = weight_kg * -1;
