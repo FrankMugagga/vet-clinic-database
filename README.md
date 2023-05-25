@@ -42,7 +42,7 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/"></a></li>
   </ul>
 </details>
 
@@ -168,7 +168,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -184,7 +183,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Using a schema]**
 - [ ] **[add "join table" for visits]**
@@ -206,7 +204,6 @@ Feel free to check the [issues page](https://github.com/FrankMugagga/vet-clinic-
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project please leave a like and share
 
@@ -216,7 +213,6 @@ If you like this project please leave a like and share
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse and my coding partners for the support and code reviewer for guidance
 
