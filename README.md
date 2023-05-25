@@ -205,7 +205,7 @@ Feel free to check the [issues page](https://github.com/FrankMugagga/vet-clinic-
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project please leave a like and share
+If you like this project please leave a like, share or contact me for a chat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
