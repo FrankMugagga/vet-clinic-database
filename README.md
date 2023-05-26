@@ -151,10 +151,10 @@ Example command:
   bin/rails test test/models/article_test.rb
 ```
 --->
-
+<!-->
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: -->
 
 <!--
 Example:
