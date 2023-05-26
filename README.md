@@ -67,6 +67,8 @@
 - **[Alter table attributes and constraints]**
 - **[SQL JOIN]**
 
+- [ ] **Add "join table" for visits**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -184,8 +186,8 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Using a schema]**
-- [ ] **[add "join table" for visits]**
+- [ ] **Using a schema**
+- [ ] **Add "join table" for visits**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
