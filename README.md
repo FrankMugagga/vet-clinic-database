@@ -33,20 +33,6 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/"></a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/"></a></li>
-  </ul>
-</details>
-
-<details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
@@ -171,11 +157,17 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Frank Mugagga**
 
 - GitHub: [@githubhandle](https://www.github.com/FrankMugagga)
 - Twitter: [@twitterhandle](https://www.twitter.com/@mugagga_frank)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/frank-mugagga)
+
+👤 **Mursedul Islam Sumon**
+
+- GitHub: [@githubhandle](https://www.github.com/sumon766)
+- Twitter: [@twitterhandle](https://www.twitter.com/sumon766)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sumon766)
 
 
 
@@ -207,7 +199,7 @@ Feel free to check the [issues page](https://github.com/FrankMugagga/vet-clinic-
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project please leave a like, share or contact me for a chat
+If you like this project please leave a star, share or contact me for a chat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,21 +209,6 @@ If you like this project please leave a like, share or contact me for a chat
 
 
 I would like to thank Microverse and my coding partners for the support and code reviewer for guidance
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-
-- **[What is a database?]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
