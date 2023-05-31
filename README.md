@@ -1,3 +1,6 @@
+
+|<div align="center"><img src="./images/drawSQL-vet-clinic-export-2023-05-31.png" alt="screenshot" width="auto" height="auto"/></div>|
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
